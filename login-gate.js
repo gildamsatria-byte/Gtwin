@@ -5,9 +5,9 @@
  * Pasang: taruh file ini di folder yang sama dengan index.html, lalu tambahkan
  * SATU baris tepat setelah <head> di index.html:
  *
- *   <script src="login-gate.js" data-app="GilBIM"></script>
+ *   <script src="login-gate.js" data-app="LiteBIM"></script>
  *
- * (untuk Octopus Studio ganti data-app="Octopus Studio")
+ * (untuk aplikasi lain ganti data-app, mis. "Octopus Studio", "Kolab", "GIM")
  */
 (function () {
   "use strict";
