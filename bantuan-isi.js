@@ -1,5 +1,5 @@
 window.OCTO_BANTUAN = {
-  app: 'GTwin',
+  app: 'Kembar',
   intro: 'Urutan kerja: buka model IFC gedung, tempatkan sensor di model, pantau lewat "Dasbor", catat inspeksi dan kerusakan, lalu simpan paket data aset (AIM).',
   langkah: [
     ['Pahami mode data', 'Lihat label di pojok kanan atas. "Data tim tersinkron" berarti data dibagikan ke anggota tim; "Mode lokal – tidak tersimpan" berarti perubahan hilang saat halaman ditutup.'],
